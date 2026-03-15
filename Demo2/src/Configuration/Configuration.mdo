@@ -41,4 +41,5 @@
   </languages>
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.DemoConfDT</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
